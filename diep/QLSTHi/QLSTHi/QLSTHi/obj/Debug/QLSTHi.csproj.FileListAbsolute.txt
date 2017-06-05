@@ -1,0 +1,40 @@
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe.config
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csprojResolveAssemblyReference.cache
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.FrmMenu.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.FrmĐăngNhập.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.Properties.Resources.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csproj.GenerateResource.Cache
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.pdb
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.exe
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.pdb
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHangHoa.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHuongDan.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmBanHang.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHoaDon.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmKhachHang.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmNhanVien.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmNhapHang.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmThongKe.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmTKBH.resources
+C:\Users\sieuchip\Documents\Visual Studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmTKNH.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\bin\Debug\QLSTHi.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmBanHang.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHangHoa.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHoaDon.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHuongDan.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmKhachHang.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmMeNu.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmNhanVien.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmNhapHang.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmThongKe.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmTKBH.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmTKNH.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmĐăngNhập.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\diep\QLSTHi\QLSTHi\QLSTHi\obj\Debug\QLSTHi.pdb
